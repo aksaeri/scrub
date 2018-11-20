@@ -5,7 +5,7 @@ title: Alexander K Saeri
 
 # I'm Alexander K Saeri
 
-<img src="http://aksaeri.com/_/img/alexander_k_saeri_300px_2015.jpg" align=right>
+![Alexander K Saer](http://aksaeri.com/_/img/alexander_k_saeri_300px_2015.jpg)
 
 I am a social psychological and behavioural scientist with expertise in statistics, experimental design and methodology, evaluation and impact assessment, and social psychological theories of behaviour change.
 
