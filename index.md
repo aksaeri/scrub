@@ -1,8 +1,14 @@
 ---
 layout: default
-title: Hank Quinlan, Horrible Cop
+title: Alexander K Saeri
 ---
 
-# Can I mix HTML and markdown syntax?
+# I'm Alexander K Saeri
 
-Let's try it and *see*.
+I am a social psychological and behavioural scientist with expertise in statistics, experimental design and methodology, evaluation and impact assessment, and social psychological theories of behaviour change.
+
+My mission is to integrate psychological insights and data-driven methods to confront complex human problems.
+
+---
+
+<img src="http://aksaeri.com/_/img/alexander_k_saeri_300px_2015.jpg" align=right>
