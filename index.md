@@ -11,6 +11,3 @@ I am a social psychological and behavioural scientist with expertise in statisti
 
 My mission is to integrate psychological insights and data-driven methods to confront complex human problems.
 
----
-
-
