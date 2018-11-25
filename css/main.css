@@ -51,10 +51,13 @@ footer {
 }
 
 .content ul {
-    margin: 20px auto 40px; 
+    margin: 1em auto; 
     font-size: 1.5em;
 }
 
+.content ul li {
+    margin-bottom: 0.5em;
+}
 ul.posts { 
     margin: 1em auto 2em; 
     font-size: 1.5em;
