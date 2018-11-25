@@ -49,8 +49,12 @@ footer {
     font-size: .8em;
 }
 
-ul.posts { 
+container > ul {
     margin: 20px auto 40px; 
+    font-size: 1.5em;
+
+ul.posts { 
+    margin: 1em auto 2em; 
     font-size: 1.5em;
 }
 
