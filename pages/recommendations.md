@@ -44,6 +44,7 @@ I have created a Google map with various personal recommendations on what to eat
 
 <iframe src="https://www.google.com/maps/d/embed?mid=zm5U2huBlpsY.kxAfIQ8XFPaA" width="100%" height="600"></iframe>
 
+
 [Open a new page with the map](https://www.google.com/maps/d/viewer?mid=zm5U2huBlpsY.kxAfIQ8XFPaA)
 
 I still have the following locations to add:
