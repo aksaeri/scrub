@@ -6,6 +6,11 @@ description: Alexander Saeri's research interests and projects
 
 # Research
 
+- [Overview](#overview)
+- [Publications](#publications)
+- [Current research](#current-research)
+- [Previous research](#previous-research)
+
 ## Publications
 
 - Klein, R. A., ... **Saeri, A. K.** (1 of 186), ... Nosek, B. A. (2018). Many Labs 2: Investigating variation in replicability across sample and setting. *Advances in Methods and Practices in Psychological Science*. Open Access preprint doi: [10.31234/osf.io/9654g](https://doi.org/10.31234/osf.io/9654g)
