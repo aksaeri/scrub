@@ -7,9 +7,11 @@ description: Alexander Saeri's research interests and projects
 # Research
 
 - [Overview](#overview)
-- [Publications](#publications)
 - [Current research](#current-research)
 - [Previous research](#previous-research)
+- [Publications](#publications)
+
+## Overview
 
 ## Publications
 
