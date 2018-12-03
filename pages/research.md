@@ -7,21 +7,24 @@ description: Alexander Saeri's research interests and projects
 # Research
 
 - [Overview](#overview)
-<!--
-- [Current research](#current-research) 
--->
+<!-- - [Current research](#current-research)  -->
 - [Previous research](#previous-research)
 - [Publications](#publications)
 
 ## Overview
 
-I am an academic Research Fellow at BehaviourWorks Australia, a research enterprise that's part of the Monash Sustainable Development Institute at Monash University. We conduct applied behaviour science research focusing on behaviour change. I work with various Australian state and federal government departments and other organisations to understand and solve problems using behaviour science.
+I am an academic Research Fellow at [BehaviourWorks Australia], a research enterprise that's part of the [Monash Sustainable Development Institute] at Monash University. We conduct applied behaviour science research focusing on behaviour change. I work with various Australian state and federal government departments and other organisations to understand and solve problems using behaviour science.
 
-As part of the Institute, I apply behaviour science methods to grapple with complex and seemingly intractable challenges of transitioning to sustainable systems. This work is framed by the UN Sustainable Development Goals.
+As part of the Institute, I apply behaviour science methods to grapple with complex and seemingly intractable challenges of transitioning to sustainable systems. This work is framed by the [UN Sustainable Development Goals] ([Check out how your country is doing against the SDGs]).
 
 I come from a disciplinary foundation of social psychology focused on **intergroup conflict, cooperation and coordination**. During my PhD, the reproducibility crisis in psychology blossomed and I became interested in **open and reproducible methods in science**. In my postdoc at UNSW, I learned the importance of **implementation science** in the success of medical, policy and other interventions.
 
 A lot of the work I do day-to-day focuses on **individual behaviour change** using a mix of methods and theories from psychology, economics, environmental management, and public administration. Right now I am working to learn more about **institutional and process design, collaboration and collective decision-making** and **behaviour change for system transitions and transformations** as I believe this is where I can have the most marginal impact in the next 10 years.
+
+[BehaviourWorks Australia]: https://www.behaviourworksaustralia.org/
+[Monash Sustainable Development Institute]: https://www.monash.edu/sustainable-development
+[UN Sustainable Development Goals]: https://www.un.org/sustainabledevelopment/sustainable-development-goals/
+[Check out how your country is doing against the SDGs]: https://dashboards.sdgindex.org/
 
 ## Publications
 
