@@ -4,7 +4,11 @@ title: About
 description: Alexander Saeri's about page
 ---
 
-I’m a first-generation Australian of Indonesian, Dutch, and Kiwi (Scottish) descent, born and raised in Brisbane.
+# About me
+
+I'm a first-generation Australian of Indonesian, Dutch, and Kiwi (Scottish) descent, born and raised in Brisbane.
+
+
 
 I received a Bachelor of Psychological Science (Hons I) from The University of Queensland (UQ) in 2010 and completed my PhD in 2015 with Aarti Iyer and Winnifred Louis, also at UQ. I've just finished coordinating and lecturing a fourth/honours year course, Current Issues in Psychology II.
 
