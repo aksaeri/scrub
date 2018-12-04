@@ -4,7 +4,10 @@ title: About
 description: Alexander Saeri's about page
 ---
 
+# About me
+
 I'm a first-generation Australian of Indonesian, Dutch, and Kiwi (Scottish) descent, born and raised in Brisbane.
+
 
 I completed my Bachelor of Psychological Science and PhD from The University of Queensland (UQ) and now live in Sydney. 
 
