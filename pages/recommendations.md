@@ -11,7 +11,7 @@ This page collects my personal and academic recommendations into one place.
 
 ### Volume
 
-There are many books out there on increasing how much you write. A good one is Paul Silva's How to Write a Lot. Each of these books boils down to:
+There are many books out there on increasing how much you write. A good one is Paul Silva's [How to Write a Lot]. Each of these books boils down to:
 
 * make time
 * jealously guard that time
@@ -54,3 +54,5 @@ I still have the following locations to add:
 * London, UK
 * Groningen, Netherlands
 * Berlin, Germany
+
+[how to write a lot]: http://www.amazon.com/How-Write-Lot-Practical-Productive/dp/1591477433
