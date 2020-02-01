@@ -1,14 +1,12 @@
 ---
 layout: default
-title: Alexander K Saeri
+title: EAARC
 ---
 
-# I'm Alexander K Saeri
+# Effective Altruism Australia Research Collaboration
 
+The Effective Altruism Australia Research Collaboration (EAARC) is a volunteer network who conduct research and provide evidence-informed, rigorous and implementable recommendations for practitioners working in EA cause areas.
 
-![Alexander K Saeri](./assets/alexander_k_saeri_300px_2015.jpg)
+Peter Slattery, Michael Noetel, and Alexander Saeri are academic researchers who met at EAGx Sydney in 2017 and founded EAARC in 2019. 
 
-I am a social psychological and behavioural scientist with expertise in statistics, experimental design and methodology, evaluation and impact assessment, and social psychological theories of behaviour change.
-
-My mission is to integrate psychological insights and data-driven methods to confront complex human problems.
 
