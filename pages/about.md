@@ -1,17 +1,17 @@
 ---
 layout: default
 title: About
-description: Alexander Saeri's about page
+description: EAARC About Page
 ---
 
-# About me
+# About EAARC
 
-![Alexander K Saeri](./assets/alexander_k_saeri_300px_2015.jpg)
+The Effective Altruism Australia Research Collaboration (EAARC) is a volunteer network who conduct research and provide evidence-informed, rigorous and implementable recommendations for practitioners working in EA cause areas.
 
-I'm a first-generation Australian of Indonesian, Dutch, and Kiwi (Scottish) descent, born and raised in Brisbane.
+Refer to this frequently updated document for more information:
 
-I completed my Bachelor of Psychological Science and PhD from The University of Queensland (UQ) and now live in Sydney. 
-
-I work with BehaviourWorks Australia, part of the Monash Sustainable Development Institute at Monash University.
-
-My interest in group processes stems from a more general fascination with complex phenomena. How do we, as individuals, synthesise the blooming, buzzing confusion that is our continuous experience of the world into beliefs, identities, and behaviours? This general fascination also underpins my love of politics and policy, models and statistics, and the philosophy of science.
+ - [EAARC Public Summary](https://docs.google.com/document/d/1VSPoy2Ps7NQqFgERjKUXH-8tiEHNTuVZ-L6MY6YWpyk/edit?usp=sharing)
+ 
+ You can also email us:
+ 
+ - [peter.slattery@monash.edu](mailto:peter.slattery@monash.edu)
