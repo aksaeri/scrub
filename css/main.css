@@ -3,7 +3,7 @@ body {
     width: 70%;
 }
 nav ul, footer ul {
-    font-family: 'Droid Serif', serif;
+    font-family: 'Droid Serif', 'Merriweather', serif;
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -41,7 +41,7 @@ h3 {
 
 p {
     font-size: 1.5em;
-    font-family: 'Droid Serif', serif;
+    font-family: 'Droid Serif', 'Merriweather', serif;
     line-height: 1.4em;
     color: #333;
 }
