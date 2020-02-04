@@ -3,7 +3,7 @@ layout: default
 title: EAARC
 ---
 
-# ![EAARC logo](/assets/noun_Target_804778.png){:height="2em" width="2em"} Effective Altruism Australia Research Collaboration
+# ![EAARC logo](/assets/noun_Target_804778.png){:height="128px" width="128px"} Effective Altruism Australia Research Collaboration
 
 The Effective Altruism Australia Research Collaboration (EAARC) is a volunteer network who conduct research and provide evidence-informed, rigorous and implementable recommendations for practitioners working in EA cause areas.
 
