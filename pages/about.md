@@ -6,7 +6,11 @@ description: EAARC About Page
 
 # About EAARC
 
-The Effective Altruism Australia Research Collaboration (EAARC) is a volunteer network who conduct research and provide evidence-informed, rigorous and implementable recommendations for practitioners working in EA cause areas.
+The Effective Altruism Australia Research Collaboration (EAARC) is a group of volunteers who conduct research and provide evidence-informed, rigorous and implementable recommendations for practitioners working in EA cause areas.
+
+Michael Noetel, Alexander Saeri and Peter Slattery are academic researchers who met at EAGx Sydney in 2017 and founded EAARC in 2019. 
+
+Members of the Collaboration include advisors, subject matter experts for each research project; team leaders, for experienced researchers who lead or manage our research projects; and members, for students and junior researchers who want to learn research skills and contribute to project execution.
 
 Refer to this frequently updated document for more information:
 
@@ -14,4 +18,4 @@ Refer to this frequently updated document for more information:
  
  You can also email us:
  
- - [peter.slattery@monash.edu](mailto:peter.slattery@monash.edu)
+ - [doinggoodbetterrc@gmail.com](mailto:doinggoodbetterrc@gmail.com)
