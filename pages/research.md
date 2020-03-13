@@ -24,12 +24,12 @@ For instance, we think it would be useful to track things like:
 
 We plan to do a 'living survey': one that is constantly running/updated and potentially taken multiple times by the same people over an extended period. 
 
-We plan to host a regularly updated online graphical summary while we collect the data, probably something like [this public Tableau dashboard](https://public.tableau.com/profile/anya.?fbclid=IwAR1hGW8FGJMO8WmY-Vi6qipS8KG3WTU6vVbFHmnoug6yweQ10PpoASXPuv4#!/vizhome/COVID-19Cases_15835248531800/COVID-19Cases
+We plan to host a regularly updated online graphical summary while we collect the data, probably something like [this public Tableau dashboard](https://public.tableau.com/en-us/gallery/meningitis-progress-tracker?tab=featured&topic=capability-maps
 ). We also plan to reach out to relevant stakeholders so that they can monitor this information.
 
 We think that this current information will be very useful for understanding the effects of the virus on (different and the same) people over time and the extent to which their attitudes, behaviours and so on align with what we seek to promote. Analysis of such data will be useful for future policymaking and risk communication.
 
-If you are interested in participating, please complete [the Google form](https://www.eaarc.org/coronavirus/join). If it is after 23 March 2020 and you are interested, please email peter.slattery@monash.edu directly.
+If you are interested in participating, please complete [the Google form](https://forms.gle/ZA8ZQCU2aGYS31QJA). If it is after 23 March 2020 and you are interested, please email peter.slattery@monash.edu directly.
 
 ## What works to reduce dietary consumption of animal products?
 
