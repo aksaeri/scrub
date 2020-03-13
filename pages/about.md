@@ -18,4 +18,4 @@ Refer to this frequently updated document for more information:
  
  You can also email us:
  
- - [doinggoodbetterrc@gmail.com](mailto:doinggoodbetterrc@gmail.com)
+ - [peter.slattery@monash.edu](peter.slattery@monash.edu)
