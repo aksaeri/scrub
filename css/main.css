@@ -54,7 +54,7 @@ footer {
 
 .content ul {
     margin: 1em auto; 
-    font-size: 1.5em;
+    font-size: 1em;
 }
 
 .content ul li {
@@ -63,7 +63,7 @@ footer {
 }
 ul.posts { 
     margin: 1em auto 2em; 
-    font-size: 1.5em;
+    font-size: 1em;
 }
 
 ul.posts li {
