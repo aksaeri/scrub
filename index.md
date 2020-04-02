@@ -9,7 +9,7 @@ title: EAARC
 
 The Effective Altruism Australia Research Collaboration (EAARC) is a group of volunteers who conduct research and provide evidence-informed, rigorous and implementable recommendations for practitioners working in EA cause areas.
 
-If you are interested in joining our current **novel coronavirus (COVID-19) research collaboration**, please complete [this Google form](https://forms.gle/ZA8ZQCU2aGYS31QJA) or email peter.slattery@monash.edu.
+If you are interested in joining our current **novel coronavirus (COVID-19) research collaboration**, please complete [this Google form](https://forms.gle/ZA8ZQCU2aGYS31QJA) or email peter.slattery@monash.edu. You can also find more information about this project on our [Research page](pages/research.html)
 
 Refer to this frequently updated document for more information:
 
