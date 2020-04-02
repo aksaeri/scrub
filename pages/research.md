@@ -8,28 +8,17 @@ description: EAARC projects
 
 ## What are people's experiences and behaviours in response to the novel coronavirus (COVID-19)?
 
-We are collaborating with Spencer Greenberg to explore people's experiences of coronavirus. We aim to better understand 
+We are conducting a research project to understand why citizens do/don’t enact key public health behaviours (e.g., handwashing, compliance with social distancing directives) that can slow the spread of the novel coronavirus. We have more than 100 international researchers working with us on this project.
 
-1. social experiences of coronavirus
-2. the best related interventions and 
-3. how they vary by location and demographic
+Our project is supporting COVID-19 policy and messaging decisions made by people working in government and public health. 
 
-For instance, we think it would be useful to track things like: 
+We are conducting a “living survey” -- with both repeated cross-sectional and longitudinal sampling -- to track behaviour and its determinants over time. 
 
-1. what different people go through during the course of the epidemic
-2. their attitudes towards, and trust in institutions
-3. their protective behaviours
-4. predictions about the future, and
-5. responses to interventions to get them to sign and share a relevant pledge.  
+Each time the survey is updated with new data, we are generating an updated report about the prevalence of protective behaviours, their most important drivers or barriers, a break-down by key demographics, and trends over time.
 
-We plan to do a 'living survey': one that is constantly running/updated and potentially taken multiple times by the same people over an extended period. 
+Our vision for this project is an international and continuously-updated dataset that can provide local insights to help government and public health officials make better decisions to fight against the novel coronavirus. 
 
-We plan to host a regularly updated online graphical summary while we collect the data, probably something like [this public Tableau dashboard](https://public.tableau.com/en-us/gallery/meningitis-progress-tracker?tab=featured&topic=capability-maps
-). We also plan to reach out to relevant stakeholders so that they can monitor this information.
-
-We think that this current information will be very useful for understanding the effects of the virus on (different and the same) people over time and the extent to which their attitudes, behaviours and so on align with what we seek to promote. Analysis of such data will be useful for future policymaking and risk communication.
-
-If you are interested in participating, please complete [the Google form](https://forms.gle/ZA8ZQCU2aGYS31QJA). If it is after 23 March 2020 and you are interested, please email peter.slattery@monash.edu directly.
+If you are interested in participating, please complete [the Google form](https://forms.gle/ZA8ZQCU2aGYS31QJA).
 
 ## What works to reduce dietary consumption of animal products?
 
