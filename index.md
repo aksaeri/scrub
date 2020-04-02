@@ -11,6 +11,8 @@ The Effective Altruism Australia Research Collaboration (EAARC) is a group of vo
 
 If you are interested in joining our current **novel coronavirus (COVID-19) research collaboration**, please complete [this Google form](https://forms.gle/ZA8ZQCU2aGYS31QJA) or email peter.slattery@monash.edu. You can also find more information about this project on our [Research page](pages/research.html)
 
+<img src="/assets/COVID-19 LS - Wave 1 - Behaviours.png" alt="Prevalence of behaviour from Wave 1 of COVID-19 living survey" style="width:1000px">
+
 Refer to this frequently updated document for more information:
 
 - [EAARC Public Summary](https://docs.google.com/document/d/1VSPoy2Ps7NQqFgERjKUXH-8tiEHNTuVZ-L6MY6YWpyk/edit?usp=sharing)
