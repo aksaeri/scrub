@@ -1,13 +1,13 @@
 ---
 layout: default
-title: EAARC
+title: READI
 ---
 
 <img src="/assets/noun_Target_804778.png" alt="EAARC logo" title="EAARC logo" style="width: 64px; float: right; margin: 0;"> 
 
-# Effective Altruism Australia Research Collaboration
+# READI Research
 
-The Effective Altruism Australia Research Collaboration (EAARC) is a group of volunteers who conduct research and provide evidence-informed, rigorous and implementable recommendations for practitioners working in EA cause areas.
+READI (formerly [EAARC](https://www.eaarc.org/) is a group of volunteers who conduct research and provide evidence-informed, rigorous and implementable recommendations for practitioners working in EA cause areas.
 
 If you are interested in joining our current **novel coronavirus (COVID-19) research collaboration**, please complete [this Google form](https://forms.gle/ZA8ZQCU2aGYS31QJA) or email peter.slattery@monash.edu. You can also find more information about this project on our [Research page](pages/research.html)
 
