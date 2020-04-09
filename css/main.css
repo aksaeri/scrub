@@ -1,18 +1,18 @@
 body {
-    margin: 60px auto;
-    width: 70%;
+    margin: 4em auto;
+    width: 80%;
     font-family: 'Droid Serif', 'Merriweather', serif;
 }
 nav ul, footer ul {
     font-family: 'Droid Serif', 'Merriweather', serif;
-    padding: 0px;
+    padding: 0;
     list-style: none;
     font-weight: bold;
 }
 nav ul li, footer ul li {
     font-family: 'Oswald', sans-serif;
     display: inline;
-    margin-right: 20px;
+    margin-right: 2em;
 }
 a {
     text-decoration: none;
@@ -80,9 +80,9 @@ ul.posts li {
 	cursor:pointer;
 	color:#ffffff;
 	font-family:Arial;
-	font-size:24px;
+	font-size:2em;
 	font-weight:bold;
-	padding:20px 50px;
+	padding:2em 3em;
 	text-decoration:none;
 	text-shadow:0px 1px 0px #854629;
 }
