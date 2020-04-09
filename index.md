@@ -9,13 +9,11 @@ title: READI
 
 READI (formerly [EAARC](https://www.eaarc.org/)) is a group of volunteers who conduct research and provide evidence-informed, rigorous and implementable recommendations for practitioners working in EA cause areas. 
 
-## COVID-19 study
-
-We are conducting *SCRUB*: a Survey of COVID-19 Responses to Understand Behaviour. 
+## Survey of COVID-19 Responses to Understand Behaviour (SCRUB)
 
 If you are interested in joining our collaboration, please complete [this Google form](https://forms.gle/ZA8ZQCU2aGYS31QJA) or email peter.slattery@monash.edu. You can also find more information about this project on our [Research page](pages/research.html)
 
-<img src="/assets/COVID-19 LS - Wave 1 - Behaviours.png" alt="Prevalence of behaviour from Wave 1 of COVID-19 living survey" style="width:60%;">
+<img src="/assets/COVID-19 LS - Wave 1 - Behaviours.png" alt="Prevalence of behaviour from Wave 1 of COVID-19 living survey" style="width:80%;">
 
 Refer to this frequently updated document for more information:
 
