@@ -12,7 +12,7 @@ Managing the impact of COVID-19 requires widespread adoption of public health be
 
 [Access the PDF report here, with additional insights and a list of variables collected.](https://drive.google.com/open?id=18K5QWHwsxR0L1cBCag-vZXgeDDqTsjXO)
 
-### Recommendations: 
+### Recommendations for Australian policy actors
 
 <ol style="list-style-type: lower-roman">
 <li>Target young people with specific interventions to encourage keeping distance in public and effective handwashing. Further diagnosis of this sub-group may be required</li>
@@ -21,13 +21,8 @@ Managing the impact of COVID-19 requires widespread adoption of public health be
 <li>Encourage new habits to replace touching face with unwashed hands</li>
 <li>Persuasive messaging must emphasise that many COVID-19 cases are occuring in the 50-69 age bracket; respondents in the 50-59 and 60-69 age group underestimated their relative likelihood of being infected with COVID-19, compared to the current case count from NNDSS</li>
 </ol>
-</div>
-
-<div id="key-findings" class="section level1">
 
 ### Key findings
-
-<div id="behavioural-adherence" class="section level2">
 
 #### Behavioural adherence
 
@@ -325,13 +320,12 @@ Percentages reflect the number of participants who said that they ‘often’ or
 </td>
 </tr>
 </table>
-</div>
 
 #### Behavioural diagnosis
 
 The practical COM-B model can help identify why people engage in behaviours of which they are **Aware**. **Capability** involves the skills and knowledge to do the behaviour. **Opportunity** includes access to resources and a social or physical environment that enables the behaviour. **Motivation** includes emotion, goals and beliefs about consequences of the behaviour. **Motivation and capability were the most influential drivers** for each of the five key behaviours, but all four drivers uniquely and significantly predicted key behaviours.
 
-**The contextualised drivers differ across key behaviours**. Staying at home is influenced by availability of mental stimulation and social interaction at home, a person’s ability to work from home, and meeting their food and supply needs. In contrast, touching one’s face is most influenced by habits and reminders. We tested five different persuasive messaging strategies (e.g., social norm, authoritative source, see p.6 for list) on respondents’ commitment (“pledge”) to perform the five key behaviours over the next month. Each strategy was more effective than no persuasive message, but effectiveness did not differ between strategies
+**The contextualised drivers differ across key behaviours**. Staying at home is influenced by availability of mental stimulation and social interaction at home, a person’s ability to work from home, and meeting their food and supply needs. In contrast, touching one’s face is most influenced by habits and reminders. We tested five different persuasive messaging strategies (e.g., social norm, authoritative source, see p.6 for list) on respondents’ commitment (“pledge”) to perform the five key behaviours over the next month. Each strategy was more effective than no persuasive message, but effectiveness did not differ between strategies.
 
 | Behaviour | Motivation | Capability | Opportunity | Awareness |
 |-|-|-|-|-|
