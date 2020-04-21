@@ -14,3 +14,5 @@ In the meantime, the following links are tracking projects in this general space
 * https://coronavirustechhandbook.com/service-design
 * https://coronavirustechhandbook.com/science
 * https://docs.google.com/document/d/11GLhX7hLf64Bxkdpv5hvYHqOjS1imlcMQFjJBJ-9oUM/edit
+* https://medium.com/@tom_wein/social-science-in-the-crisis-some-data-c1628f76ffb0
+* https://docs.google.com/document/d/1JWeD1AaIGKMPry_EN8GjIqwX4J4KLQIAqP09exZ-ENI/edit#
