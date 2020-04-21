@@ -22,9 +22,7 @@ Managing the impact of COVID-19 requires widespread adoption of public health be
 <li>Persuasive messaging must emphasise that many COVID-19 cases are occuring in the 50-69 age bracket; respondents in the 50-59 and 60-69 age group underestimated their relative likelihood of being infected with COVID-19, compared to the current case count from NNDSS</li>
 </ol>
 
-### Key findings
-
-#### Behavioural adherence
+### Behavioural adherence
 
 The Australian Government Department of Health recommends five key behaviours to stop the spread of COVID-19. The majority of Australians are doing these behaviours. Men are less likely to perform protective behaviours than females. Older adults (50+) were also more likely to practice protective behaviours such as handwashing and social distancing in the last 7 days, than those below 50. However, older adults are also less likely to avoid touching their faces.
 
@@ -321,7 +319,7 @@ Percentages reflect the number of participants who said that they ‘often’ or
 </tr>
 </table>
 
-#### Behavioural diagnosis
+### Behavioural diagnosis
 
 The practical COM-B model can help identify why people engage in behaviours of which they are **Aware**. **Capability** involves the skills and knowledge to do the behaviour. **Opportunity** includes access to resources and a social or physical environment that enables the behaviour. **Motivation** includes emotion, goals and beliefs about consequences of the behaviour. **Motivation and capability were the most influential drivers** for each of the five key behaviours, but all four drivers uniquely and significantly predicted key behaviours.
 
