@@ -6,11 +6,13 @@ description: Information about the SCRUB project
 
 # About SCRUB
 
-SCRUB is a survey to provide behavioural insights for policy and messaging. SCRUB measures behaviours (e.g., staying home) and drivers to understand “who needs to do what differently”. We are using cross-sectional and longitudinal sampling to track behaviour and its drivers over time.
+The Survey of COVID-19 Responses to Understand Behaviour (SCRUB) project aims to provide current and future policy makers with actionable insights into public attitudes and behaviours relating to the COVID-19 pandemic.
 
-Our vision for this project is an international and continuously-updated dataset that can provide local insights to help government and public health officials make better decisions to fight against the novel coronavirus. 
+Building on the COSMO project, a WHO/Europe initiative - we are running a "living survey" -- with both repeated cross-sectional and longitudinal sampling -- running throughout the pandemic. In this survey we track relevant protective behaviours, (e.g., handwashing and social distancing) their variations by demographic and location, and their determinants. We also test interventions.
 
-So far we have about 120 international collaborators, and are supporting country teams in setting up local versions of SCRUB.
+After each wave of data collection, we generate and disseminate an updated report. 
+
+We have about 120 international collaborators, and are supporting country teams in setting up local versions of SCRUB. More than 4000 people across 40 countries have completed the first and second waves of data collection. 
 
 ## Who is the team? 
 
