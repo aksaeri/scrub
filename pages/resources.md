@@ -10,7 +10,7 @@ Many of the tools, code, data, and process we have used in this project will be 
 
 Visit our [Open Science Framework project](https://osf.io/u5x3r/). There you can:
 
-- Request access to de-identified open science data (you may also complete the request form directly)
+- Request access to de-identified open science data (you may also [complete the data request form](https://forms.gle/x1BQJ6cuCbQ1KAJq6) directly)
 - Immediately access analysis and dashboard R code
 - Immediately access the survey materials (as Word and Qualtrics QSF)
 - Immediately access the data dictionary
