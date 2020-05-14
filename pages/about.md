@@ -24,147 +24,148 @@ We have about 120 international collaborators, and are supporting country teams 
 
 ### Core team
 
-Alexander Saeri
-Peter Slattery
-Michael Noetel
-Emily Grundy
+- Alexander Saeri
+- Peter Slattery
+- Michael Noetel
+- Emily Grundy
 
 ### Collaborators
 
-Riley Harris
-David Manheim
-David Bernard
-Anna-Lena Schubert
-Aravindh Anura
-Eemaan Kaur Thind
-Jakob Jonnerby
-Archy de Berker
-Leonhard Lades
-Matti Wilks
-Sanjay Joshi
-Qiaoyu Luo
-Belinda Merkle
-Christoph Winter
-Isabel Juniewicz
-natalie
-Lin Seidler
-sonnet sarker 
-Keller Scholl
-Rainer Leonhart
-Fernanda Mata
-Emily Grundy
-Ben Grodeck
-Michael Plant
-René Karadakic
-Thyl Moors
-Michael Thurston
-David Moss
-Derek Foster
-Maximilian Maier
-Daniel Rosenfeld
-Christoph Winter
-Shiva Pauer
-Ben Smith
-AnnaMarie Vu
-Ross Gordon
-Chiara Varazzani
-Damon Pham
-Jonah Goldberg
-James Healy
-Julia Schreiber
-Simeon Steven Ugonna 
-Jay Jaean Jeon
-Piper Oren
-Haroon Ahmad 
-Nedra Weinreich
-Marin Kramer-Kelemović
-Jessica Burgeno
-Helena Rubinstein 
-Intesar Nur
-Noreen Akram 
-Mohamed Ali Marouani
-Shawn Lee
-Alex McKenzie
-Tara Mohandas
-Taylor Willmott
-Rashmi Gupta
-Jenny Yeon Hee Kim
-Samiha Alom 
-Siri Mehus
-Leanne Simpson
-Dr Lisa Sharwood
-Phillip O'Riordan
-Lindsay Coome
-Sadie Lawes-Wickwar
-JÚLIA BEATRIZ LOPES-SILVA
-Julie miller
-ting jiang
-Pierre-Jean G. Malé
-Rishabh Kumar
-Laura Hoemeke
-Manuel Schubert
-Natasha Binnie
-Vivek Katial
-Clarissa Keil
-Nidhi Menon
-I-Shuo Chen
-Ruiling Wen
-Keesler Welch
-Mariana Popa
-Caroline Ciaramitaro
-Yasmin Nikookam
-Sandrine DUVERNE
-Rory Fenton
-Rebekah Plueckhahn 
-Janosch Hoffmann
-Isabel Moura
-Clarissa Busch
-Petre Pütz
-Daniel Buckman
-Evelyn Morris
-Jared Pickett
-Megan Crawford
-Francesca Raileanu
-Olatz Mompeo-Masachs
-Dr. Mark A. Biernbaum 
-Sara Shagiwal
-Georgia Buckland
-Medhavi Gupta
-Louise Townsin
-Marta Strzyga
-Brea Kunstler
-Bhawna Gupta
-Krishane Patel
-CATHERINE ARIAS
-Denise De Souza 
-Braden Cody
-Ray Taylor
-Endah W
-Evgeniya
-Marta Mangiarulo
-Carlo Berti
-Maiar
-Nikita Bogdanov
-Enver Figueroa
-Mohammed A Merzah
-Sandra Ohuegbe
-Ran Zhang
-Annaki
-Daniele Tavernari
-Sam Rogers
-James Yu
-Kinnari
-Hanzhang Ren
-Sam Rogers
-Sait Matty Jaw
-Alper Celik 
-Celeste Delaune
-Stuart Flint
-Varun Deshpande
-Alexander Saeri
-Michael Noetel
-Peter Slattery
-Nawaf Albali
+- Riley Harris
+- David Manheim
+- David Bernard
+- Anna-Lena Schubert
+- Aravindh Anura
+- Eemaan Kaur Thind
+- Jakob Jonnerby
+- Archy de Berker
+- Leonhard Lades
+- Matti Wilks
+- Sanjay Joshi
+- Qiaoyu Luo
+- Belinda Merkle
+- Christoph Winter
+- Isabel Juniewicz
+- natalie
+- Lin Seidler
+- sonnet sarker 
+- Keller Scholl
+- Rainer Leonhart
+- Fernanda Mata
+- Emily Grundy
+- Ben Grodeck
+- Michael Plant
+- René Karadakic
+- Thyl Moors
+- Michael Thurston
+- David Moss
+- Derek Foster
+- Maximilian Maier
+- Daniel Rosenfeld
+- Christoph Winter
+- Shiva Pauer
+- Ben Smith
+- AnnaMarie Vu
+- Ross Gordon
+- Chiara Varazzani
+- Damon Pham
+- Jonah Goldberg
+- James Healy
+- Julia Schreiber
+- Simeon Steven Ugonna 
+- Jay Jaean Jeon
+- Piper Oren
+- Haroon Ahmad 
+- Nedra Weinreich
+- Marin Kramer-Kelemović
+- Jessica Burgeno
+- Helena Rubinstein 
+- Intesar Nur
+- Noreen Akram 
+- Mohamed Ali Marouani
+- Shawn Lee
+- Alex McKenzie
+- Tara Mohandas
+- Taylor Willmott
+- Rashmi Gupta
+- Jenny Yeon Hee Kim
+- Samiha Alom 
+- Siri Mehus
+- Leanne Simpson
+- Dr Lisa Sharwood
+- Phillip O'Riordan
+- Lindsay Coome
+- Sadie Lawes-Wickwar
+- JÚLIA BEATRIZ LOPES-SILVA
+- Julie miller
+- ting jiang
+- Pierre-Jean G. Malé
+- Rishabh Kumar
+- Laura Hoemeke
+- Manuel Schubert
+- Natasha Binnie
+- Vivek Katial
+- Clarissa Keil
+- Nidhi Menon
+- I-Shuo Chen
+- Ruiling Wen
+- Keesler Welch
+- Mariana Popa
+- Caroline Ciaramitaro
+- Yasmin Nikookam
+- Sandrine DUVERNE
+- Rory Fenton
+- Rebekah Plueckhahn 
+- Janosch Hoffmann
+- Isabel Moura
+- Clarissa Busch
+- Petre Pütz
+- Daniel Buckman
+- Evelyn Morris
+- Jared Pickett
+- Megan Crawford
+- Francesca Raileanu
+- Olatz Mompeo-Masachs
+- Dr. Mark A. Biernbaum 
+- Sara Shagiwal
+- Georgia Buckland
+- Medhavi Gupta
+- Louise Townsin
+- Marta Strzyga
+- Brea Kunstler
+- Bhawna Gupta
+- Krishane Patel
+- CATHERINE ARIAS
+- Denise De Souza 
+- Braden Cody
+- Ray Taylor
+- Endah W
+- Evgeniya
+- Marta Mangiarulo
+- Carlo Berti
+- Maiar
+- Nikita Bogdanov
+- Enver Figueroa
+- Mohammed A Merzah
+- Sandra Ohuegbe
+- Ran Zhang
+- Annaki
+- Daniele Tavernari
+- Sam Rogers
+- James Yu
+- Kinnari
+- Hanzhang Ren
+- Sam Rogers
+- Sait Matty Jaw
+- Alper Celik 
+- Celeste Delaune
+- Stuart Flint
+- Varun Deshpande
+- Alexander Saeri
+- Michael Noetel
+- Peter Slattery
+- Nawaf Albali
+
 
 ### Supporting organisations
 
