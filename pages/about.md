@@ -31,8 +31,8 @@ We have about 120 international collaborators, and are supporting country teams 
 
 ### Supporting organisations
 
-[BehaviourWorks Australia](https://www.behaviourworksaustralia.org/)
-[Monash Sustainable Development Institute](https://www.monash.edu/sustainable-development)
+- [BehaviourWorks Australia](https://www.behaviourworksaustralia.org/)
+- [Monash Sustainable Development Institute](https://www.monash.edu/sustainable-development)
 
 ### Collaborators
 | Name                      | Country                  | Affiliation                                                               |
