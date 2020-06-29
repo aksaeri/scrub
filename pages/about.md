@@ -77,7 +77,6 @@ We have about 120 international collaborators, and are supporting country teams 
 | Eemaan Kaur Thind         | Canada                   |                                                                           |
 | Emily Grundy              | Australia                | Deakin University                                                         |
 | Endah W                   | Indonesia                |                                                                           |
-| Enver Figueroa            | Perú                     |                                                                           |
 | Evelyn Morris             | United States            | University of North Carolina at Chapel Hill                               |
 | Evgeniya                  | Russia                   |                                                                           |
 | Fernanda                  | Australia                | Monash Uni                                                                |
