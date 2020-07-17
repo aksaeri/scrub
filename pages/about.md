@@ -16,12 +16,6 @@ We have about 120 international collaborators, and are supporting country teams 
 
 ## Who is the team? 
 
-**READI** is a group of volunteers who conduct research and provide evidence-informed, rigorous and implementable recommendations for practitioners working in Effective Altruism cause areas. Michael Noetel, Alexander Saeri and Peter Slattery are academic researchers who met at EAGx Sydney in 2017 and founded READI in 2019. Together with Emily Grundy, they initiated the SCRUB project and support its international work. Find out more at [https://www.readiresearch.org](https://www.readiresearch.org)
-
-**BehaviourWorks Australia** brings leading behaviour change researchers from Monash University together with practitioners in government and industry to explore and understand the human side of everyday problems and identify who needs to do what differently. As a multidisciplinary research enterprise within the Monash Sustainable Development Institute, BWA endeavours to support efforts to address the United Nations' Sustainable Development Goals by conducting research and providing knowledge on how behavioural science can be used to tackle SDG-related problems. Alexander Saeri and Peter Slattery are Research Fellows with BWA. Find out more at [https://www.behaviourworksaustralia.org/](https://www.behaviourworksaustralia.org/)
-
-## List of collaborators
-
 ### Core team
 
 - Alexander Saeri
@@ -33,7 +27,6 @@ We have about 120 international collaborators, and are supporting country teams 
 
 - [BehaviourWorks Australia](https://www.behaviourworksaustralia.org/)
 - [Monash Sustainable Development Institute](https://www.monash.edu/sustainable-development)
-
 
 ### Collaborators
 - See sheet [here](https://docs.google.com/spreadsheets/d/1nCX3ygkSaI3FW-PpkuZ3Gi_FllWgDrSHYV9SPcLOQb8/edit?usp=sharing)
