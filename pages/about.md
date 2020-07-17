@@ -10,18 +10,18 @@ The Survey of COVID-19 Responses to Understand Behaviour (SCRUB) project aims to
 
 Building on the COSMO project, a WHO/Europe initiative - we are running a "living survey" -- with both repeated cross-sectional and longitudinal sampling -- running throughout the pandemic. In this survey we track relevant protective behaviours, (e.g., handwashing and social distancing) their variations by demographic and location, and their determinants. We also test interventions.
 
-After each wave of data collection, we generate and disseminate an updated report. 
+After each wave of data collection, we generate and disseminate an updated report to relevant policy actors. 
 
-We have about 120 international collaborators, and are supporting country teams in setting up local versions of SCRUB. More than 4000 people across 40 countries have participated in SCRUB.
+More than 10,000 surveys in more than 40 countries have already been completed.
 
 ## Who is the team? 
 
 ### Core team
 
-- Alexander Saeri
-- Peter Slattery
-- Michael Noetel
-- Emily Grundy
+- [Alexander Saeri](https://www.linkedin.com/in/aksaeri/)
+- [Peter Slattery](https://www.linkedin.com/in/peterslattery1/)
+- [Michael Noetel](https://www.linkedin.com/in/mnoetel/)
+- [Emily Grundy](https://www.linkedin.com/in/emily-grundy/)
 
 ### Supporting organisations
 
