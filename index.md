@@ -18,3 +18,5 @@ After each wave of data collection, we generate and disseminate an updated repor
 More than 10,000 surveys in more than 40 countries have already been completed.
 
 The SCRUB project is led by [READI](https://www.readiresearch.org/) in partnership with [BehaviourWorks Australia](https://behaviourworksaustralia.org), Monash Sustainable Development Institute, Monash University and Australian Catholic University; and a group of more than 100 international researchers.
+
+Research related to the SCRUB project has been mentioned in several media outlets, for example, in live interviews on SBS and ABC News, on radio stations such as [ABC News Radio](https://www.abc.net.au/radio/newsradio/survey-finds-most-australians-with-symptoms-of/12390796) and Triple M, and in articles in The [Conversation](https://theconversation.com/more-australians-are-worried-about-a-recession-and-an-increasingly-selfish-society-than-about-coronavirus-itself-135297) and [ABC news](https://www.abc.net.au/radio/newsradio/survey-finds-most-australians-with-symptoms-of/12390796). 
