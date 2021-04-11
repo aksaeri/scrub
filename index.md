@@ -13,10 +13,10 @@ The SCRUB project aims to provide current and future policy makers with actionab
 
 Building on the COSMO project, a WHO/Europe initiative - we are running a “living survey” -- with both repeated cross-sectional and longitudinal sampling --  throughout the pandemic. In this survey we track relevant protective behaviours (e.g., handwashing and social distancing) their variations by demographic and location, and their determinants. We also test interventions.
 
-After each wave of data collection, we generate and disseminate an updated report to relevant policy actors. 
+After each wave of data collection, we generate and disseminate an updated report to relevant policy makers. 
 
-More than 10,000 surveys in more than 40 countries have already been completed.
+More than 14,000 surveys in more than 40 countries have already been completed.
 
 The SCRUB project is led by [READI](https://www.readiresearch.org/) in partnership with [BehaviourWorks Australia](https://behaviourworksaustralia.org), Monash Sustainable Development Institute, Monash University and Australian Catholic University; and a group of more than 100 international researchers.
 
-Research related to the SCRUB project has been mentioned in several media outlets, for example, in live interviews on SBS and ABC News, on radio stations such as [ABC News Radio](https://www.abc.net.au/radio/newsradio/survey-finds-most-australians-with-symptoms-of/12390796) and Triple M, and in articles in The [Conversation](https://theconversation.com/more-australians-are-worried-about-a-recession-and-an-increasingly-selfish-society-than-about-coronavirus-itself-135297) and [ABC news](https://www.abc.net.au/radio/newsradio/survey-finds-most-australians-with-symptoms-of/12390796). 
+The related research has been widely covered by the media, for example, in live interviews on SBS and ABC News, on radio stations such as [ABC News Radio](https://www.abc.net.au/radio/newsradio/survey-finds-most-australians-with-symptoms-of/12390796) and Triple M, and in articles in The [Conversation](https://theconversation.com/more-australians-are-worried-about-a-recession-and-an-increasingly-selfish-society-than-about-coronavirus-itself-135297) and [ABC news](https://www.abc.net.au/radio/newsradio/survey-finds-most-australians-with-symptoms-of/12390796). 
