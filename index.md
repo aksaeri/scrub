@@ -6,6 +6,9 @@ title: Help SCRUB COVID-19
 <img src="/assets/noun_Target_804778.png" alt="READI logo" title="READI logo" style="width: 64px; float: right; margin: 0;"> 
 
 # Survey of COVID-19 Responses to Understand Behaviour (SCRUB)
+<p align="center">
+<img src="/assets/SCRUB%20image.jpg" height="480" width="680">
+</p> 
 
 The SCRUB project aims to provide current and future policy makers with actionable insights into public attitudes and behaviours relating to the COVID-19 pandemic.
 
@@ -25,3 +28,8 @@ The SCRUB project is led by [READI](https://www.readiresearch.org/) in partnersh
 The related research has been widely covered by the media, for example, in live interviews on SBS and ABC News, on radio stations such as [ABC News Radio](https://www.abc.net.au/radio/newsradio/survey-finds-most-australians-with-symptoms-of/12390796) and Triple M, and in articles in The [Conversation](https://theconversation.com/more-australians-are-worried-about-a-recession-and-an-increasingly-selfish-society-than-about-coronavirus-itself-135297) and [ABC news](https://www.abc.net.au/radio/newsradio/survey-finds-most-australians-with-symptoms-of/12390796). 
 
 Our international data can be accessed [here](https://drive.google.com/drive/folders/1OPgolKrjr-49fpJi3kcTPbbLO0qa36bi?usp=sharing). This contains 3104 total responses, and 1359 repeat responses (people who used the same email address for 2 or more waves).
+
+Several  papers have are being produced from the data. The following papers have been accepted for publication:
+ * [Information safety assurances increase intentions to use COVID-19 contact tracing applications, regardless of autonomy-supportive or controlling message framing](https://www.frontiersin.org/articles/10.3389/fpsyg.2020.591638/full)
+ * [Age and education moderate the relationship between confidence in health and political authorities and intention to adopt COVID-19 health-protective behaviours](https://osf.io/cwfx2/download?format=pdf)
+ 
