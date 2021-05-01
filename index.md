@@ -21,13 +21,18 @@ SCRUB has been run every 3-4 weeks since March 2020. We have measured:
 
 After each wave of data collection, we generate and disseminate an updated report to relevant policy makers. 
 
-More than 30,000 surveys in more than 40 countries have been completed. The vast majority of this data is from Australians.
+More than 40,000 surveys in more than 40 countries have been completed. The vast majority of this data is from Australians, but we also have over 3000 responses from international sample.
 
 ## Who we are
 The SCRUB project is led by [READI](https://www.readiresearch.org/) in partnership with [BehaviourWorks Australia](https://behaviourworksaustralia.org), Monash Sustainable Development Institute, Monash University and Australian Catholic University; and a group of more than 100 international researchers.
 
+## Project status
+SCRUB is currently only actively in Australia where it is funded by the Victorian Government. We have ceased data collection in all other locations. 
+
 ## Access our data
 Our international data can be accessed [here](https://drive.google.com/drive/folders/1OPgolKrjr-49fpJi3kcTPbbLO0qa36bi?usp=sharing). This contains 3104 total responses, and 1359 repeat responses (people who used the same email address for 2 or more waves).
+
+Our domestic data is currently embargoed by our government partners.
 
 ## Read our research
 Several  papers have are being produced from the data. The following papers have been accepted for publication:
