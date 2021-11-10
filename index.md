@@ -18,7 +18,7 @@ SCRUB ran every 3-4 weeks since March 2020 until June 2021. We measured:
 * what people are doing to keep themselves safe (e.g., distancing, mask-wearing, willingness to vaccinate, compliance with rules) and why; 
 * the impact of COVID-19 on lives and livelihoods (e.g., mental health and wellbeing, work arrangements, government payments and community services, worries); 
 * beliefs and expectations of a sustainable recovery (e.g., household finances, travel, COVIDSafe workplaces)
-* changes in related behaviours such as attitudes to meat consumption and pandemics
+* changes in related attitudes related issues such as  meat consumption and pandemic preparedness
 
 After each wave of data collection, we generated and disseminated a report for relevant policy makers. 
 
